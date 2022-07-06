@@ -9,5 +9,5 @@
 
 ### Kasada ki Dolar miktarı ve kasada ki Euro miktarı bilgisi listelenir.
 <hr>
-</br>
+
 <img src="Application_img2.png">
