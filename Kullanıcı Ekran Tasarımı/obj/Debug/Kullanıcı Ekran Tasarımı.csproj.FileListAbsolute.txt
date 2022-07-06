@@ -1,0 +1,36 @@
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\Kullanıcı Ekran Tasarımı.exe.config
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\Kullanıcı Ekran Tasarımı.exe
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\Kullanıcı Ekran Tasarımı.pdb
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.Form1.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.Properties.Resources.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.exe
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.pdb
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\CircularProgressBar.dll
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\WinFormAnimation.dll
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\CircularProgressBar.xml
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.csproj.CopyComplete
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.FrmDashboard.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.FrmAnalytics.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.FrmCalender.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.FrmContactUs.resources
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\Kullanıcı Ekran Tasarımı.exe.config
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\Kullanıcı Ekran Tasarımı.exe
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\Kullanıcı Ekran Tasarımı.pdb
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\CircularProgressBar.dll
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\WinFormAnimation.dll
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\bin\Debug\CircularProgressBar.xml
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.FrmAnalytics.resources
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.FrmCalender.resources
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.FrmContactUs.resources
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.FrmDashboard.resources
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.Properties.Resources.resources
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.csproj.CopyComplete
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.exe
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı Ekran Tasarımı.pdb
+C:\Users\metin\Desktop\Kullanıcı Ekran Tasarımı\Kullanıcı Ekran Tasarımı\obj\Debug\Kullanıcı_Ekran_Tasarımı.FrmGiris.resources
