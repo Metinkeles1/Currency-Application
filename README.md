@@ -7,7 +7,7 @@
 <img src="Application_img1.png">
 <hr>
 
-### Kasada ki Dolar miktarı ve kasada ki Euro miktarı bilgisi listelenir.
+### Kasada ki Dolar miktarı ve kasada ki Euro miktarı bilgisi listelenir
 <hr>
 
 <img src="Application_img2.png">
